@@ -4,5 +4,5 @@ I do not own any of the textures, software, or anything here. This is rightfully
 Minecraft Java 0.0.23a_01 for web.
 # See the original working at:
 https://classic.minecraft.net
-# Or my reupload
+# Or the reupload
 https://minecraftclassic.ethpsa09.repl.co/
